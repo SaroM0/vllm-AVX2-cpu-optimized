@@ -43,8 +43,8 @@ Please open an issue with:
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/vllm-cpu-optimized.git
-   cd vllm-cpu-optimized
+   git clone https://github.com/SaroM0/vllm-AVX2-cpu-optimized.git
+   cd vllm-AVX2-cpu-optimized
    ```
 3. Create a feature branch:
    ```bash
@@ -168,11 +168,11 @@ Current priorities:
 4. **Monitoring Dashboard**: Web-based performance monitoring
 5. **Multi-Model Support**: Run multiple models simultaneously
 
-Want to work on something? Check the [issues](https://github.com/YOUR_USERNAME/vllm-cpu-optimized/issues) or propose your own!
+Want to work on something? Check the [issues](https://github.com/SaroM0/vllm-AVX2-cpu-optimized/issues) or propose your own!
 
 ## Questions?
 
-- Open a [Discussion](https://github.com/YOUR_USERNAME/vllm-cpu-optimized/discussions)
+- Open a [Discussion](https://github.com/SaroM0/vllm-AVX2-cpu-optimized/discussions)
 - Join the [vLLM Discord](https://discord.gg/vllm)
 - Check existing issues and docs
 

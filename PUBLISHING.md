@@ -23,7 +23,7 @@ git add .
 git commit -m "Initial commit: vLLM CPU optimized for CPUs without AVX512"
 
 # Add remote (replace YOUR_USERNAME with your GitHub username)
-git remote add origin https://github.com/YOUR_USERNAME/vllm-cpu-optimized.git
+git remote add origin https://github.com/SaroM0/vllm-AVX2-cpu-optimized.git
 
 # Push to GitHub
 git branch -M main
@@ -78,7 +78,7 @@ First public release of vLLM CPU Optimized!
 
 ### Quick Start
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/vllm-cpu-optimized.git
+git clone https://github.com/SaroM0/vllm-AVX2-cpu-optimized.git
 cd vllm-cpu-optimized
 ./build.sh
 ./run-example.sh
@@ -107,7 +107,7 @@ See [README.md](README.md) for full documentation.
    🐳 Docker deployment
    📊 Performance monitoring
    
-   https://github.com/YOUR_USERNAME/vllm-cpu-optimized
+   https://github.com/SaroM0/vllm-AVX2-cpu-optimized
    
    #vLLM #LLM #MachineLearning
    ```

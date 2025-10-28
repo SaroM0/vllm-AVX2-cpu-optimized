@@ -418,7 +418,7 @@ export DOCKER_BUILDKIT=0
 If you're still stuck:
 
 1. **Check existing issues:**
-   - https://github.com/YOUR_USERNAME/vllm-cpu-optimized/issues
+   - https://github.com/SaroM0/vllm-AVX2-cpu-optimized/issues
 
 2. **Gather information:**
    ```bash

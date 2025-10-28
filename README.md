@@ -31,8 +31,8 @@ Standard vLLM builds often fail or crash on CPUs without AVX512 support (common 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/vllm-cpu-optimized.git
-cd vllm-cpu-optimized
+git clone https://github.com/SaroM0/vllm-AVX2-cpu-optimized.git
+cd vllm-AVX2-cpu-optimized
 
 # Build the optimized vLLM image (takes 30-60 minutes)
 ./build.sh
@@ -258,8 +258,8 @@ The original vLLM project is also licensed under Apache 2.0: https://github.com/
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/YOUR_USERNAME/vllm-cpu-optimized/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/YOUR_USERNAME/vllm-cpu-optimized/discussions)
+- **Issues:** [GitHub Issues](https://github.com/SaroM0/vllm-AVX2-cpu-optimized/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/SaroM0/vllm-AVX2-cpu-optimized/discussions)
 - **vLLM Discord:** [Join here](https://discord.gg/vllm)
 
 ## ⭐ Star History
